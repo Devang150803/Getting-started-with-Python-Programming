@@ -1,0 +1,5 @@
+A = [12,4,54,67,798,98,67,4]
+
+A.append(input("Enter the number which you want to add in this list :-\n "))
+
+print(A)

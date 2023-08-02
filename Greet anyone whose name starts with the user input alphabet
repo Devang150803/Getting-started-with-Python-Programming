@@ -1,0 +1,7 @@
+L1 = ["Vandita", "aditya", "devang ", "achal ", "aniruddh", "aradhy", "harsh", "harshit", "amit", "kulvinder", "Vansh"]
+
+a = input("Enter the letter :- ")
+
+for name in L1:
+    if name.startswith(a):
+        print("hello" + " " + name)

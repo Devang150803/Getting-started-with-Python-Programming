@@ -1,0 +1,7 @@
+A = "Medi-Caps University is the worst university of india, taking admission in this university was my biggest mistake"
+
+a = input("enter the word you want to replace :- ")
+
+b = input("enter the word you want :- ")
+
+print(A.replace(a,b))

@@ -1,0 +1,5 @@
+A = "Medi-Caps University is the worst university of india, taking admission in this university was my biggest mistake"
+
+a = input("Type the letter which you want to count :- ")
+
+print(A.count(a))

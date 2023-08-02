@@ -1,0 +1,3 @@
+A = "Medi-Caps University is the worst university of india, taking admission in this university was my biggest mistake"
+
+print(len(A))

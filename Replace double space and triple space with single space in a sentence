@@ -1,0 +1,18 @@
+A = " Medi-Caps  University is the worst  university of  india, taking admission   in this university was my biggest mistake"
+
+a = A.find("  ")
+b = A.find("   ")
+
+print("The double space is in :- ", a)
+print("the triple space is in :- ",b)
+
+print(" removing the extra spaces ....... ")
+
+for elements in A:
+    A = A.replace("  ", " ")
+
+for elements in A:
+    B=A.replace("   ", " ")
+
+
+print(B)

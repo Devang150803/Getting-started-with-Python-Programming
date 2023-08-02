@@ -1,0 +1,9 @@
+a = int(input("Enter the number you want to print the table :- "))
+#b = int(input("Enter the maximum times you want to print :- "))
+
+i = int(a)
+
+while i<=a*10:
+    print(str(i))
+    i = i + int(a)
+    

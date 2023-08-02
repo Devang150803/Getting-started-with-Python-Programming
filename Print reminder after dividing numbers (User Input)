@@ -1,0 +1,7 @@
+a = input("Enter the First number :- ")
+
+b = input("enter the second number :- ")
+
+c = int(a) % int(b)
+
+print("The reminder of this two numbers is ", c)

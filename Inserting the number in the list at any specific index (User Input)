@@ -1,0 +1,4 @@
+A = [12,4,54,67,798,98,67,4]
+A.insert(int(input("Enter the index number :- ")),int(input("Enter the number you want to add :- ")))
+
+print(A)
